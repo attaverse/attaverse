@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @attaverse
+- 💞️ I’m looking to collaborate on ... creating the newDay
+- 📫 How to reach me ... submit pr on msg.md with your thoughts
